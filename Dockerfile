@@ -1,5 +1,4 @@
-FROM ubuntu:latest
-
+FROM ubuntu:20.04
 #
 # Identify the maintainer of an image
 LABEL maintainer="kallol.b@inneed.cloud.com"
